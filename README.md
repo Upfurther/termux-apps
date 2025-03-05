@@ -1,4 +1,4 @@
-# Termux apps on Google Play
+date >> /data/data/com.termux/files/home/termux-boot# Termux apps on Google Play
 
 This repository contains the source code used in the [current Termux build](https://play.google.com/store/apps/details?id=com.termux&hl=en) on Google Play.
 
